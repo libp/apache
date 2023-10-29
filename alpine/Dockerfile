@@ -17,5 +17,3 @@ CMD ["httpd", "-D", "FOREGROUND"]
 WORKDIR /var/www/html/
 EXPOSE 80
 
-# TODO  再弄小一点
-
